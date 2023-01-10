@@ -18,5 +18,5 @@ Blog application:
 
 ## Admin account
 
-- email: `*****`
-- password: `******`
+- email: `hbtn@hbtn.io`
+- password: `toto1234`
